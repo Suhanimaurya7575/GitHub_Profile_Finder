@@ -27,7 +27,7 @@ const Dashboard = () => {
       return;
     }
     try {
-      const res = await fetch(`http://localhost:5000/api/github/${username}`);
+      const res = await fetch(`https://github-profile-finder-zlwv.onrender.com/api/github/${username}`);
 
       const data = await res.json();
 
