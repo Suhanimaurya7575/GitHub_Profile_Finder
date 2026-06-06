@@ -133,11 +133,11 @@ GitHub-Profile-Finder
 
 ### Login Page
 
-<img width="30%" alt="Login Page" src="screenshots/login.png">
+<img width="30%" alt="Login Page" src="screenshots/Login.png">
 
 ### Register Page
 
-<img width="20%" alt="Register Page" src="screenshots/register.png">
+<img width="20%" alt="Register Page" src="screenshots/Register.png">
 
 
 ### GitHub Profile Search
