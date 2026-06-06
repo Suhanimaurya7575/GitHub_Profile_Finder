@@ -32,7 +32,7 @@ A full-stack web application that allows users to securely register, log in, and
 
 ## 🔗 Project Links
 
-* **Live Website:** https://YOUR-VERCEL-LINK.vercel.app
+* **Live Website:** [https://git-hub-profile-finder-blond.vercel.app/
 * **Backend API:** https://github-profile-finder-zlwv.onrender.com
 * **GitHub Repository:** https://github.com/Suhanimaurya7575/GitHub_Profile_Finder
 
