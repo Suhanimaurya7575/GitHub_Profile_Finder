@@ -4,6 +4,39 @@ A full-stack web application that allows users to securely register, log in, and
 
 ---
 
+## 🌐 Live Demo
+
+### Frontend (Vercel)
+
+🔗 https://YOUR-VERCEL-LINK.vercel.app
+
+### Backend API (Render)
+
+🔗 https://github-profile-finder-zlwv.onrender.com
+
+---
+
+## 🚀 Deployment
+
+### Frontend
+
+* Hosted on Vercel
+* Built with React + Vite
+
+### Backend
+
+* Hosted on Render
+* Built with Node.js, Express.js, and MongoDB
+
+---
+
+## 🔗 Project Links
+
+* **Live Website:** https://YOUR-VERCEL-LINK.vercel.app
+* **Backend API:** https://github-profile-finder-zlwv.onrender.com
+* **GitHub Repository:** https://github.com/Suhanimaurya7575/GitHub_Profile_Finder
+
+
 
 ## ✨ Features
 
