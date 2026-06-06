@@ -8,7 +8,7 @@ A full-stack web application that allows users to securely register, log in, and
 
 ### Frontend (Vercel)
 
-🔗 git-hub-profile-finder-blond.vercel.app
+🔗 https://git-hub-profile-finder-blond.vercel.app/
 
 ### Backend API (Render)
 
